@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctionsValidator", "AzureFunctionsValidator\AzureFunctionsValidator.csproj", "{83ADEF98-3801-48C1-8FE0-F76B75B0AAD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionApp1", "FunctionApp1\FunctionApp1.csproj", "{230DB7C0-91BB-4EFD-9903-D27CBD08F6B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{60D944C2-A943-49EA-9C0D-353BE67F4C04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{83ADEF98-3801-48C1-8FE0-F76B75B0AAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83ADEF98-3801-48C1-8FE0-F76B75B0AAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83ADEF98-3801-48C1-8FE0-F76B75B0AAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230DB7C0-91BB-4EFD-9903-D27CBD08F6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230DB7C0-91BB-4EFD-9903-D27CBD08F6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230DB7C0-91BB-4EFD-9903-D27CBD08F6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230DB7C0-91BB-4EFD-9903-D27CBD08F6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D944C2-A943-49EA-9C0D-353BE67F4C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D944C2-A943-49EA-9C0D-353BE67F4C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D944C2-A943-49EA-9C0D-353BE67F4C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D944C2-A943-49EA-9C0D-353BE67F4C04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
