@@ -1,5 +1,7 @@
-# azure-functions-model-validator
-Easy to use fluent API for validatin modesl that arrived via HttpTrigger.
+# Azure Functions model validator
+Easy to use fluent API for validating modesl that arrived via HttpTrigger. Define what should happen when the model is ok. Optionally you can define on-failiure callback. The validator is also in Async version.
+
+## Example
 
 ```cs
 public class Request
